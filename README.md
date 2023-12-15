@@ -41,8 +41,8 @@
 ### **Социальные сети 🤝 :**
 
 <div>
-    <a href=""><img src = "Resources/Networks/yandex.webp" title="Яндекс дзен" alt="Yandex" width="50" height="50"/><a>
-    <a href="" ><img src = "Resources/Networks/discord.svg" title="Discord" alt="Discord" width="50" height="50"/><a>
+    <a href="https://dzen.ru/id/6529319aba9cbf61345e010c"><img src = "Resources/Networks/yandex.webp" title="Яндекс дзен" alt="Yandex" width="50" height="50"/><a>
+    <a href="https://discord.com/users/523490408672526337" ><img src = "Resources/Networks/discord.svg" title="Discord" alt="Discord" width="50" height="50"/><a>
 </div>
 
 ---
