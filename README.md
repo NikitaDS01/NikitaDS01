@@ -1,63 +1,87 @@
-# Привествую в своем GitHub
+<h1 align="center">Hi 👋, I'm Nikita Doroshenko</h1>
+<h3 align="center">A passionate backend Python developer</h3>
 
-<p align="center"><img src = "Resources/fon.gif" width="250" height="200" alt="fon"></p>
 
----
+<hr>
+<h1 align="center">About me ⚡ </h1>
 
-# **Обо мне ⚡ :**
+I am a junior backend Python and C# programmer and I am trying my hand in different directions. I like to explore new technologies and development tools in my field.
 
-Я начинающий программист разработчик на языке C# и я пробую свои силы в разных направлениях. Мне нравится изучать новые технологии и инструменты, чтобы развиваться в своей области.
+- 🌱 I’m currently learning everything related to project development (project management, project architecture, and so on).
 
-### Мои хобби ✨ :
+- 📝I write articles about game developers: [Resource](https://dzen.ru/forgottenteamstudio)
 
-- Разработка игр на движке Unity
-- Писать статьи по программированию
-- Создание разных штук на языке C#
-- Создание сайтов
+- 📫 How to reach me: **nik.dor0shenk@yandex.ru**
 
----
+- 💬 Ask me about: **Anything, I'll be glad** 
 
-### **Технологии 💡 :**
+- ⚡ Fun fact: **I developed games on Unity until I went to work**
 
-<div>
-    <img src = "Resources/Technology/csharp.svg" title="C#" alt="Csharp" width="50" height="50"/>
-    <img src = "Resources/Technology/html.svg" title="Html" alt="Html" width="50" height="50"/>
-    <img src = "Resources/Technology/css.svg" title="Css" alt="Css" width="50" height="50"/>
-    <img src = "Resources/Technology/python.svg" title="Python" alt="Python" width="50" height="50"/>
-    <img src = "Resources/Technology/mssql.svg" title="MsSQL" alt="mssql" width="50" height="50"/>
-    <img src = "Resources/Technology/mongo.svg" title="MongoDB" alt="mongoDB" width="50" height="50"/>
-</div>
+<h1 align="center">Languages and Tools 💡</h1>
+<h3>Language 🎓:</h3>
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</p>
 
-### **Инструменты 💻 :**
+<h3>Database 💽:</h3>
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+</p>
 
-<div>
-    <img src = "Resources/Tools/unity.svg" title="Unity" alt="Unity" width="50" height="50"/>
-    <img src = "Resources/Tools/vc.svg" title="Visial Studio Code" alt="Vscode" width="50" height="50"/>
-    <img src = "Resources/Tools/visualstudio.svg" title="Visual Studio 2022" alt="VisualStudio" width="50" height="50">
-</div>
+<h3>Framework 📓:</h3>
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+</p>
+    
+<h3>Tools 💻:</h3>
+<p>
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</p>
 
----
+<h3>Other ⚙️:</h3>
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
+</p>
 
-### **Социальные сети 🤝 :**
+<hr>
 
-<div>
-    <a href="https://dzen.ru/id/6529319aba9cbf61345e010c"><img src = "Resources/Networks/yandex.webp" title="Яндекс дзен" alt="Yandex" width="50" height="50"/><a>
-    <a href="https://discord.com/users/523490408672526337" ><img src = "Resources/Networks/discord.svg" title="Discord" alt="Discord" width="50" height="50"/><a>
-</div>
+<h3 align="left">Connect with me 🤝 :</h3>
+<p align="left">
+    <a href="https://stackoverflow.com/users/27016375" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="123" height="30" width="40" />
+    </a>
+    <a href="https://www.leetcode.com/nikitads01" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tetet" height="30" width="40" />
+    </a>
+    <a href="https://discord.com/users/523490408672526337" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1234" height="30" width="40" />
+    </a>
+</p>
 
----
+<hr>
 
-# **GitHub статистика ⚙️ :**
+<h3 align="left">GitHub statistics ⚙️ :</h3>
 
-<table>
-    <tr>
-        <td>
-            <img src="http://github-readme-streak-stats.herokuapp.com?user=NikitaDS01&theme=dark&background=000000" alt="github stats">
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaDS01&theme=vision-friendly-dark&layout=compact" alt="languageStatus">
-        </td>
-    </tr>
-</table>
-
-![Score](https://komarev.com/ghpvc/?username=NikitaDS01&style=flat-square&color=blue)
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=NikitaDS01&theme=dark&background=000000" alt="github stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=NikitaDS01&show_icons=true&count_private=true&hide_border=true&theme=vision-friendly-dark"" alt="work github stats" />
+&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaDS01&theme=vision-friendly-dark&layout=compact" alt="language status">
+</p>
